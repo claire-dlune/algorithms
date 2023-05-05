@@ -8,3 +8,7 @@ playlist of algorithms
 practice 
 
 - https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header
+
+videos
+
+ - https://www.youtube.com/@NeetCodeIO/videos
