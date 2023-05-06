@@ -4,6 +4,8 @@ playlist of algorithms
 
 - Fast pattern matching in strings 
 
+- https://memgraph.com/blog/graph-algorithms-applications
+
 
 practice 
 
