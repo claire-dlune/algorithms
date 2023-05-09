@@ -10,6 +10,7 @@ playlist of algorithms
 practice 
 
 - https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header
+- https://link.springer.com/article/10.1007/s11042-020-10139-6
 
 videos
 
