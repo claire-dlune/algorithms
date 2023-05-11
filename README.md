@@ -1,5 +1,7 @@
 playlist of algorithms
 
+- https://doc.lagout.org/Others/Data%20Structures/Data%20Structures%20and%20Network%20Algorithms%20%5BTarjan%201987-01-01%5D.pdf
+
 - https://www.teamblind.com/blog/index.php/2022/06/27/top-leetcode-patterns-coding-interview-questions/
 
 - Fast pattern matching in strings 
