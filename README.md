@@ -8,6 +8,8 @@ playlist of algorithms
 
 - https://memgraph.com/blog/graph-algorithms-applications
 
+- https://codingcompetitions.withgoogle.com
+
 
 practice 
 
