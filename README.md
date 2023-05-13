@@ -10,6 +10,7 @@ playlist of algorithms
 
 - https://codingcompetitions.withgoogle.com
 
+- http://infolab.stanford.edu/~ullman/focs.html
 
 practice 
 
