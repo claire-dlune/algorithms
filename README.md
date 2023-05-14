@@ -12,6 +12,8 @@ playlist of algorithms
 
 - http://infolab.stanford.edu/~ullman/focs.html
 
+- https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b
+
 practice 
 
 - https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header
