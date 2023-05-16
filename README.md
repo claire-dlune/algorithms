@@ -16,6 +16,8 @@ playlist of algorithms
 
 - https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b
 
+- https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf
+
 practice 
 
 - https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header
